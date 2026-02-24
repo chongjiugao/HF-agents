@@ -20,3 +20,8 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# local vector database
+notebooks/alfred_chroma_db/
+notebooks/data/
+notebooks/lib/
